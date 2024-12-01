@@ -40,7 +40,7 @@ A interface foi projetada para ser simples e intuitiva, com componentes como bot
 1. Clone o repositório:
 
    ```bash
-   git clone <https://github.com/SeuUsuario/SistemaBancario.git>
+   git clone <https://github.com/victorduartewz/SistemaBancario.git>
    ```
 
 2. Navegue até o diretório do projeto:
